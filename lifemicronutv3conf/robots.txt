@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /LifeMicroNut-Bilan-Microbiote-SanteMentale.html
-
-Sitemap: https://lifemicronut.com/sitemap.xml
